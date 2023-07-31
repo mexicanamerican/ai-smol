@@ -1,0 +1,14 @@
+# .gitignore
+
+node_modules/
+.next/
+out/
+*.log
+*.css.map
+*.js.map
+*.mjs.map
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
